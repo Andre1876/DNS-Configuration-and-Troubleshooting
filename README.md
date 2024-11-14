@@ -21,8 +21,8 @@ Please refer to the [DNS Configuration Guide](https://learn.microsoft.com/en-us/
 
 ---
 **Resources:**
-- [DNS Setup Documentation](https://docs.microsoft.com/en-us/windows-server/networking/dns/)
-- [DNS Troubleshooting Tools](https://docs.microsoft.com/en-us/troubleshoot/windows-server/networking/dns-troubleshooting)
+- [DNS Setup Documentation](https://learn.microsoft.com/en-us/search/?terms=DNS%20Setup%20Documentation)
+- [DNS Troubleshooting Tools](https://learn.microsoft.com/en-us/search/?terms=DNS%20Troubleshooting%20Tools)
 
 
 
