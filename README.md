@@ -17,7 +17,7 @@ This repository demonstrates configuring and troubleshooting DNS settings to ens
 3. **Troubleshoot common DNS errors** using tools like `nslookup`.
 4. **Verify DNS server settings** to ensure proper domain resolution.
 
-Please refer to the [DNS Configuration Guide](docs/DNS-configuration-guide.md) for step-by-step instructions.
+Please refer to the [DNS Configuration Guide](https://learn.microsoft.com/en-us/entra/identity/domain-services/tutorial-create-instance) for step-by-step instructions.
 
 ---
 **Resources:**
