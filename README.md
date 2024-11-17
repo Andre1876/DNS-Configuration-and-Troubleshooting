@@ -134,8 +134,5 @@ For a deeper understanding of DNS, consider exploring resources such as **[Cloud
 
 ---
 
-**Project Metadata**
-- **Stars**: 0
-- **Watchers**: 1
-- **Forks**: 0
-- **Resources**: README.md and Documentation
+
+<h2>  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2>
